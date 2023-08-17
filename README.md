@@ -1,1 +1,1 @@
-## ML project End-to-End
+## End-to-End Diamond Price Prediction Project
